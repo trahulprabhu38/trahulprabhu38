@@ -22,6 +22,6 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/c
 ![](https://github-contributor-stats.vercel.app/api?username=T-Rahul-prabhu-38&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=T-Rahul-prabhu-38&icon=3&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=T-Rahul-prabhu-38&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
