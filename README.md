@@ -28,6 +28,9 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/c
 
 [![An image of @trahulprabhu38's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trahulprabhu38)](https://holopin.io/@trahulprabhu38)
 
+![2024-100-new](https://github.com/user-attachments/assets/503fae5a-19e8-4be1-9218-976c71810caa)
+![2024-50](https://github.com/user-attachments/assets/8f7ab3b9-ac72-4865-b992-3a3f3eb7e3b3)
+
 
 
 
