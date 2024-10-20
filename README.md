@@ -31,6 +31,7 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/c
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Rahul-prabhu-38&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    <img src="https://leetcode.card.workers.dev/T-Rahul-prabhu-38?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
 </p>
 
 <hr>
