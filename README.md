@@ -41,10 +41,8 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/c
 
 <hr>
 
-# 🏆 GitHub Trophies
 
-
- # 🔝 Leetcode Stats
+ # 🏆 Leetcode Stats
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=T-Rahul-prabhu-38&limit=5&theme=gotham&combine_all_yearly_contributions=true) -->
 <div align='center'>
  
@@ -62,7 +60,7 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/c
 # 🏆 Digital Badges
 [![An image of @trahulprabhu38's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trahulprabhu38)](https://holopin.io/@trahulprabhu38)
 
-<br/>
+
 
 
 
