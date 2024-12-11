@@ -1,4 +1,4 @@
- [![](https://visitcount.itsvg.in/api?id=T-Rahul-prabhu-38&icon=2&color=0)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=trahulprabhu38&icon=2&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me: 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> 
@@ -114,29 +114,29 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/c
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/T-Rahul-prabhu-38/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=T-Rahul-prabhu-38&theme=react&border=61dafb&hide_border=true" alt="T-Rahul-prabhu-38" />
+    <a href="https://github.com/trahulprabhu38/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=trahulprabhu38&theme=react&border=61dafb&hide_border=true" alt="trahulprabhu38" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=T-Rahul-prabhu-38&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=trahulprabhu38&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/T-Rahul-prabhu-38/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Rahul-prabhu-38&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    <a href="https://github.com/trahulprabhu38/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trahulprabhu38&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Rahul-prabhu-38&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trahulprabhu38&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
 
 
  # 🏆 Leetcode Stats
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=T-Rahul-prabhu-38&limit=5&theme=gotham&combine_all_yearly_contributions=true) -->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=trahulprabhu38&limit=5&theme=gotham&combine_all_yearly_contributions=true) -->
 <div align='center'>
  
 ![](https://leetcard.jacoblin.cool/trahulprabhu38?ext=heatmap)
@@ -147,7 +147,7 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/c
 </div>
 
 # 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=T-Rahul-prabhu-38&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=trahulprabhu38&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
 
