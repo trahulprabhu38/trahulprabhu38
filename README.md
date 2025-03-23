@@ -123,6 +123,7 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/c
 <h1 align="center">⚡  Stats: ⚡</h2>
 <br>
 <p align=center>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trahulprabhu38&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   <div align=center>
     <a href="https://github.com/trahulprabhu38/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=trahulprabhu38&theme=react&border=61dafb&hide_border=true" alt="trahulprabhu38" />
@@ -139,7 +140,6 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/c
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trahulprabhu38&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
@@ -162,6 +162,9 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/c
 ---
 
 
+<a href="https://wakatime.com/@trahulprabhu38">
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=trahulprabhu38&langs_count=6&theme=dark&locale=en#gh-dark-mode-only" />
+</a>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
