@@ -15,8 +15,6 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/c
 # 💻 Tech Stack:
 
 
-
-
 <div align="left">
 </div>
 
