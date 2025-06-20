@@ -30,7 +30,6 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="csharp logo"  />
 </div>
 
-
 ###
 
 <div align="left">
