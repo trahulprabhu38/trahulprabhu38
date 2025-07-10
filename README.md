@@ -4,7 +4,7 @@
 
 
 
-College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/c++].<br>Currently working on improving skills.<br>Always learning and exploring new tech.<br>Open to collaboration on innovative projects.
+College Student passionate about [Blockchain/devops].<br>Specializing in [scaling applications and setting up infrastructure]<br>Open to collaboration on innovative projects.
 
 
 # 🌐 Socials: 
