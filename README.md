@@ -60,19 +60,12 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [scalin
 ![](https://github-contributor-stats.vercel.app/api?username=trahulprabhu38&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
-
-
 <a href="https://wakatime.com/@trahulprabhu38">
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=trahulprabhu38&langs_count=6&theme=dark&locale=en#gh-dark-mode-only" />
 </a>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 # 🏆 Digital Badges
 [![An image of @trahulprabhu38's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trahulprabhu38)](https://holopin.io/@trahulprabhu38)
-
-
 
 
 
