@@ -16,7 +16,6 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [scalin
  
 </div>
 
-
 <h1 align="center">⚡  Stats: ⚡</h2>
 <br>
 <p align=center>
