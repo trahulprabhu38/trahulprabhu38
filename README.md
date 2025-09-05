@@ -11,9 +11,7 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [scalin
 
 # 💻 Tech Stack:
 
-
 <div align="left">
- 
 </div>
 
 <h1 align="center">⚡  Stats: ⚡</h2>
