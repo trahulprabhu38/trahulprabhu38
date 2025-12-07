@@ -1,61 +1,150 @@
- [![](https://visitcount.itsvg.in/api?id=trahulprabhu38&icon=2&color=0)](https://visitcount.itsvg.in)
-# 💫 About Me: 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> 
+## Hi there 👋
 
-College Student passionate about [Blockchain/devops].<br>Specializing in [scaling applications and setting up infrastructure]<br>Open to collaboration on innovative projects.
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=trahulprabhu38&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p> 
+
+<!-- Added Profile Banner -->
+<!-- <img align="center" src="/header_F.png" alt="Profile Image Header" /><br>
+ -->
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on DevOps projects.
+- 🌱 I’m currently learning Kubernetes, CI/CD, and Cloud Deployments.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with advanced Kubernetes and Infrastructure as Code (IaC).
+- 😄 Pronouns:She/Her
+
+
+<hr>
 
 # 🌐 Socials: 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lon3_wolf#5299) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul._38_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trahulprabhu38/)[![X](https://img.shields.io/badge/X-black.s
-vg?logo=X&logoColor=white)](https://x.com/@tRahulPrabhu38)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/trahulprabhu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trahulprabhu38/) 
+<br><br>
+<hr>
 
-# 💻 Tech Stack:
+<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology</h1>
 
 <div align="left">
 </div>
 
-<h1 align="center">⚡  Stats: ⚡</h2>
-<br>
-<p align=center>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trahulprabhu38&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  <div align=center>
-    <a href="https://github.com/trahulprabhu38/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=trahulprabhu38&theme=react&border=61dafb&hide_border=true" alt="trahulprabhu38" />
-    </a>
-    <a href="https://github.com/trahulprabhu38/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=trahulprabhu38&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/trahulprabhu38/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trahulprabhu38&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-</p>
-<hr>
+###
 
- # 🏆 Leetcode Stats
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=trahulprabhu38&limit=5&theme=gotham&combine_all_yearly_contributions=true) -->
-<div align='center'>
- 
-![](https://leetcard.jacoblin.cool/trahulprabhu38?ext=heatmap)
-
-![ezgif-3-b2c0ad5069](https://github.com/user-attachments/assets/8e8c2219-dd3e-4d17-8337-652059718d71)![ezgif-3-1276c2c311](https://github.com/user-attachments/assets/188ccd00-b532-4424-a6b9-2595cb10acf0)![ezgif-3-5d9c0ee592](https://github.com/user-attachments/assets/97498dce-3c4d-4bff-8d83-d9bc893e45a7)![ezgif-3-1adf2fd99d](https://github.com/user-attachments/assets/fc6af904-9dd6-4eb9-b2e6-ed5f5d250b4f)
-
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="csharp logo"  />
 </div>
 
-# 🔝 Top Contributed Repo
+###
 
-![](https://github-contributor-stats.vercel.app/api?username=trahulprabhu38&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+</div>
 
----
-<a href="https://wakatime.com/@trahulprabhu38">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=trahulprabhu38&langs_count=6&theme=dark&locale=en#gh-dark-mode-only" />
-</a>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 🏆 Digital Badges
-[![An image of @trahulprabhu38's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trahulprabhu38)](https://holopin.io/@trahulprabhu38)
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="12" />
+  
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+</div>
+
+###
+
+
+<hr>
+
+## github stats
+
+
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trahulprabhu38&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trahulprabhu38&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trahulprabhu38&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trahulprabhu38&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trahulprabhu38&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=trahulprabhu38&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+
+<br/>
+<br/>
+<br/>
+
+
+<p align="center">
+   <a>
+     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trahulprabhu38&theme=radical" /></p>
+   </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trahulprabhu38&theme=synthwave-84&true&hide_border=true" />
+</div>
+
+<hr>
 
