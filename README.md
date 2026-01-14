@@ -8,10 +8,6 @@
 <!-- Added Profile Banner -->
 <!-- <img align="center" src="/header_F.png" alt="Profile Image Header" /><br>
  -->
-
-
- 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DevOps projects.
